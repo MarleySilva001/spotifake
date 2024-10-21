@@ -20,7 +20,7 @@ const SplashScreen = () => {
             />
             <Image 
             style={styles.logo}
-            source={require('../assets/images/sportifake.png')}
+            source={require('../assets/images/spotifake.png')}
             />
         </View>
     )
